@@ -1,6 +1,8 @@
 package com.practice.strategy;
-import java.util.Arrays;
 
+/**
+ * @author wyc
+ */
 public class Test {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
